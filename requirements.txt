@@ -1,0 +1,6 @@
+numpy==1.26.4
+numpydoc @ file:///C:/b/abs_bbspp5l8vu/croot/numpydoc_1718279185573/work
+pandas==2.2.3
+scikit-learn==1.6.1
+catboost==1.2.7
+streamlit==1.44.1
